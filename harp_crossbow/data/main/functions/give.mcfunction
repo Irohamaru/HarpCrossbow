@@ -1,0 +1,1 @@
+give @p minecraft:crossbow{display:{Name:'{"text":"ハープクロスボウ","color":"gold","bold":true,"italic":false}',Lore:['{"text":"発射数アップ","color":"aqua","bold":true,"italic":false}','{"text":""}','{"text":"楽器としては二級品、武器としては一級品。","color":"white","bold":true,"italic":false}','{"text":"パーティーの主役になれるクロスボウ。","color":"white","bold":true,"italic":false}']}}
